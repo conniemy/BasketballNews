@@ -1,0 +1,25 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+24 帕特-康诺顿 得分后卫 1.93m 94kg 25 0年 Notre-Dame http://nba.sports.163.com//player/1000000021/
+21 托尼-斯内尔 得分后卫 2.01m 96kg 27 0年 New-Mexico http://nba.sports.163.com//player/1000000167/
+23 斯特林-布朗 得分后卫 1.98m 105kg 23 0年 Southern-Methodist http://nba.sports.163.com//player/1000000168/
+7 索恩-梅克 中锋 2.16m 100kg 21 0年  http://nba.sports.163.com//player/1000000169/
+22 克里斯-米德尔顿 小前锋 2.03m 100kg 27 0年 Texas-A&M http://nba.sports.163.com//player/1000000170/
+34 扬尼斯-阿特托昆博 小前锋 2.11m 109kg 23 0年  http://nba.sports.163.com//player/1000000171/
+5 DJ-威尔森 大前锋 2.08m 104kg 22 0年 Michigan http://nba.sports.163.com//player/1000000174/
+31 约翰-亨森 中锋 2.11m 99kg 27 0年 North-Carolina http://nba.sports.163.com//player/1000000176/
+8 马修-德拉维多瓦 控球后卫 1.93m 90kg 28 0年 Saint-Mary's(CA) http://nba.sports.163.com//player/1000000178/
+13 马尔科姆-布罗格登 得分后卫 1.96m 103kg 25 0年 Virginia http://nba.sports.163.com//player/1000000179/
+6 埃里克-布莱索 控球后卫 1.85m 92kg 28 0年 Kentucky http://nba.sports.163.com//player/1000000219/
+11 布鲁克-洛佩斯 中锋 2.13m 122kg 30 0年 Stanford http://nba.sports.163.com//player/1000000236/
+40 马歇尔-普拉姆利 中锋 2.13m 113kg 26 1年 Duke http://nba.sports.163.com//player/1000000256/
+77 艾森-伊利亚索瓦 大前锋 2.08m 106kg 31 0年  http://nba.sports.163.com//player/1000000270/
+44 泰勒-泽勒 中锋 2.13m 117kg 28 0年 North-Carolina http://nba.sports.163.com//player/1000000333/
+15 沙巴兹-穆罕默德 得分后卫 1.96m 102kg 26 0年 UCLA http://nba.sports.163.com//player/1000000523/
+0 托尼-米切尔 大前锋 2.06m 106kg 26 1年 North-Texas http://nba.sports.163.com//player/1000000610/
+30 杰伦-莫里斯 得分后卫 1.96m 83kg 23 0年 Molloy http://nba.sports.163.com//player/1000000613/
+0 特拉维斯-泰斯 得分后卫 1.83m 77kg 25 0年 Michigan-State http://nba.sports.163.com//player/1000000729/
+0 布兰登-麦考伊 中锋 2.16m 113kg 20 0年 UNLV http://nba.sports.163.com//player/1000000730/
+0 特雷沃-杜瓦尔 控球后卫 1.88m 85kg 20 0年 Duke http://nba.sports.163.com//player/1000000731/
+35 克里斯蒂安-伍德 大前锋 2.08m 97kg 23 0年 Nevada-Las-Vegas http://nba.sports.163.com//player/1000000732/
+9 丹特-迪文森佐 得分后卫 1.93m 92kg 21 0年 Villanova http://nba.sports.163.com//player/1000000733/
+20 约迪-米克斯 得分后卫 1.93m 95kg 31 0年 Kentucky http://nba.sports.163.com//player/1000000771/

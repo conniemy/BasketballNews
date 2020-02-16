@@ -1,0 +1,22 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+99 杰-克劳德 小前锋 1.98m 106kg 28 0年 Marquette http://nba.sports.163.com//player/1000000016/
+31 乔治-尼昂 大前锋 2.03m 104kg 25 1年 Iowa State http://nba.sports.163.com//player/1000000049/
+34 泰勒-卡瓦诺 大前锋 2.06m 107kg 24 0年 George-Washington http://nba.sports.163.com//player/1000000275/
+11 丹特-埃克萨姆 控球后卫 1.98m 86kg 23 0年  http://nba.sports.163.com//player/1000000390/
+23 罗伊斯-奥尼尔 小前锋 1.98m 102kg 25 0年 Baylor http://nba.sports.163.com//player/1000000393/
+27 鲁迪-戈贝尔 中锋 2.16m 111kg 26 0年  http://nba.sports.163.com//player/1000000394/
+2 乔-英格尔斯 小前锋 2.03m 102kg 31 0年  http://nba.sports.163.com//player/1000000395/
+13 托尼-布拉德利 中锋 2.08m 112kg 20 0年 North-Carolina http://nba.sports.163.com//player/1000000397/
+10 亚历克-伯克斯 得分后卫 1.98m 97kg 27 0年 Colorado http://nba.sports.163.com//player/1000000398/
+25 劳尔-内托 控球后卫 1.85m 81kg 26 0年  http://nba.sports.163.com//player/1000000399/
+3 里基-卢比奥 控球后卫 1.93m 86kg 28 0年  http://nba.sports.163.com//player/1000000402/
+22 萨博-塞福洛沙 小前锋 2.01m 99kg 34 0年  http://nba.sports.163.com//player/1000000403/
+15 德里克-费沃斯 大前锋 2.08m 120kg 27 0年 Georgia-Tech http://nba.sports.163.com//player/1000000404/
+45 多诺万-米切尔 得分后卫 1.90m 97kg 22 0年 Louisville http://nba.sports.163.com//player/1000000405/
+33 艾派-尤度 大前锋 2.08m 111kg 31 0年 Baylor http://nba.sports.163.com//player/1000000406/
+30 纳兹-米特鲁-朗 得分后卫 1.93m 98kg 25 0年 Iowa-State http://nba.sports.163.com//player/1000000409/
+8 乔勒斯-莱尔斯 控球后卫 1.88m 79kg 23 0年 UMBC http://nba.sports.163.com//player/1000000720/
+44 艾萨克-哈斯 中锋 2.18m 131kg 23 0年 Purdue http://nba.sports.163.com//player/1000000721/
+21 特雷-刘易斯 未知 1.88m 83kg 26 0年 Louisville http://nba.sports.163.com//player/1000000722/
+24 格雷森-艾伦 得分后卫 1.96m 89kg 23 0年 Duke http://nba.sports.163.com//player/1000000723/
+5 以赛亚-考辛斯 得分后卫 1.93m 86kg 24 0年 Oklahoma http://nba.sports.163.com//player/1000000802/

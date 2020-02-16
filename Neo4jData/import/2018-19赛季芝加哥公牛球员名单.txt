@@ -1,0 +1,23 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+0 安东尼斯-克利夫兰 得分后卫 1.98m 88kg 24 0年 Southeast-Missouri-State http://nba.sports.163.com//player/1000000050/
+2 贾巴里-帕克 小前锋 2.03m 111kg 23 0年 Duke http://nba.sports.163.com//player/1000000177/
+3 欧米尔-阿西克 中锋 2.13m 115kg 32 0年  http://nba.sports.163.com//player/1000000194/
+0 泰勒-尤利斯 控球后卫 1.78m 72kg 22 0年 Kentucky http://nba.sports.163.com//player/1000000216/
+45 登泽尔-瓦伦丁 控球后卫 1.98m 95kg 25 0年 Michigan-State http://nba.sports.163.com//player/1000000279/
+7 贾斯廷-霍勒迪 得分后卫 1.98m 82kg 29 0年 Washington http://nba.sports.163.com//player/1000000280/
+6 克里斯蒂亚诺-费利西奥 大前锋 2.08m 120kg 26 0年  http://nba.sports.163.com//player/1000000283/
+32 克里斯-邓恩 控球后卫 1.93m 92kg 24 0年 Providence http://nba.sports.163.com//player/1000000284/
+24 劳里-马尔卡宁 大前锋 2.13m 108kg 21 0年 Arizona http://nba.sports.163.com//player/1000000285/
+5 博比-波蒂斯 大前锋 2.11m 113kg 23 0年 Arkansas http://nba.sports.163.com//player/1000000286/
+51 瑞安-阿奇迪亚科诺 控球后卫 1.90m 90kg 24 0年 Villanova http://nba.sports.163.com//player/1000000287/
+8 扎克-拉文 得分后卫 1.96m 90kg 23 0年 UCLA http://nba.sports.163.com//player/1000000290/
+42 罗宾-洛佩斯 中锋 2.13m 124kg 30 0年 Stanford http://nba.sports.163.com//player/1000000291/
+9 安东尼奥-布莱克尼 得分后卫 1.93m 87kg 22 0年 Louisiana-State http://nba.sports.163.com//player/1000000292/
+22 卡梅伦-佩恩 控球后卫 1.90m 86kg 24 0年 Murray-State http://nba.sports.163.com//player/1000000293/
+14 亚卡尔-桑普森 小前锋 2.06m 97kg 25 0年 St.John's(NY) http://nba.sports.163.com//player/1000000305/
+11 德里克-沃顿 控球后卫 1.85m 86kg 23 0年 Michigan http://nba.sports.163.com//player/1000000364/
+3 沙奎尔-哈里森 得分后卫 1.93m 86kg 25 0年 Tulsa http://nba.sports.163.com//player/1000000615/
+15 钱德勒-哈奇森 小前锋 2.01m 89kg 22 0年 Boise-State http://nba.sports.163.com//player/1000000647/
+34 温德尔-卡特 大前锋 2.08m 115kg 19 0年 Duke http://nba.sports.163.com//player/1000000648/
+20 罗尔-阿尔金斯 得分后卫 1.96m 102kg 21 0年 Arizona http://nba.sports.163.com//player/1000000649/
+21 凯撒-盖茨 小前锋 2.03m 102kg 22 0年  http://nba.sports.163.com//player/1000000655/

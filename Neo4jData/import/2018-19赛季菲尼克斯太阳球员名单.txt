@@ -1,0 +1,20 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+21 里乔恩-霍姆斯 大前锋 2.08m 106kg 25 0年 Bowling-Green http://nba.sports.163.com//player/1000000139/
+30 特洛伊-丹尼尔斯 得分后卫 1.93m 92kg 27 0年 Virginia-Commonwealth http://nba.sports.163.com//player/1000000155/
+20 约什-杰克逊 小前锋 2.03m 90kg 21 0年 Kansas http://nba.sports.163.com//player/1000000205/
+35 德拉甘-本德尔 大前锋 2.16m 102kg 21 0年  http://nba.sports.163.com//player/1000000206/
+12 TJ-沃伦 小前锋 2.03m 97kg 25 0年 North-Carolina-State http://nba.sports.163.com//player/1000000209/
+1 德文-布克 得分后卫 1.98m 95kg 22 0年 Kentucky http://nba.sports.163.com//player/1000000211/
+4 泰森-钱德勒 中锋 2.16m 108kg 36 0年  http://nba.sports.163.com//player/1000000212/
+32 达文-里德 得分后卫 1.96m 94kg 23 0年 Miami(FL) http://nba.sports.163.com//player/1000000214/
+0 以赛亚-卡南 控球后卫 1.83m 90kg 27 0年 Murray-State http://nba.sports.163.com//player/1000000353/
+0 达雷尔-亚瑟 大前锋 2.06m 106kg 30 0年 Kansas http://nba.sports.163.com//player/1000000483/
+15 莱恩-安德森 大前锋 2.08m 108kg 30 0年 California http://nba.sports.163.com//player/1000000492/
+3 特雷沃-阿里扎 小前锋 2.03m 97kg 33 0年 UCLA http://nba.sports.163.com//player/1000000494/
+10 沙奎尔-哈里森 得分后卫 1.93m 86kg 25 0年 Tulsa http://nba.sports.163.com//player/1000000615/
+14 丹东尼-梅尔顿 控球后卫 1.93m 90kg 20 0年 Southern-California http://nba.sports.163.com//player/1000000742/
+2 埃利-奥科博 控球后卫 1.88m 81kg 21 0年  http://nba.sports.163.com//player/1000000743/
+22 德安德烈-艾顿 中锋 2.16m 113kg 20 0年 Arizona http://nba.sports.163.com//player/1000000744/
+25 米卡尔-布里奇斯 小前锋 2.01m 95kg 22 0年 Villanova http://nba.sports.163.com//player/1000000745/
+8 乔治-金 小前锋 1.98m 99kg 24 0年 Colorado http://nba.sports.163.com//player/1000000746/
+11 贾马尔-克劳福德 得分后卫 1.96m 83kg 38 0年 Michigan http://nba.sports.163.com//player/1000000829/

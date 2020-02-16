@@ -1,0 +1,23 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+0 帕特里克-麦考 得分后卫 2.01m 83kg 23 0年 Nevada-Las-Vegas http://nba.sports.163.com//player/1000000036/
+2 乔丹-贝尔 大前锋 2.06m 101kg 23 0年 Oregon http://nba.sports.163.com//player/1000000037/
+15 达米安-琼斯 中锋 2.13m 111kg 23 0年 Vanderbilt http://nba.sports.163.com//player/1000000038/
+11 克莱-汤普森 得分后卫 2.01m 97kg 28 0年 Washington-State http://nba.sports.163.com//player/1000000039/
+35 凯文-杜兰特 小前锋 2.06m 108kg 30 0年 Texas http://nba.sports.163.com//player/1000000040/
+23 德雷蒙德-格林 大前锋 2.01m 104kg 28 0年 Michigan-State http://nba.sports.163.com//player/1000000041/
+34 肖恩-利文斯顿 控球后卫 2.01m 87kg 33 0年  http://nba.sports.163.com//player/1000000042/
+30 斯蒂芬-库里 控球后卫 1.90m 86kg 30 0年 Davidson http://nba.sports.163.com//player/1000000043/
+9 安德烈-伊戈达拉 得分后卫 1.98m 97kg 34 0年 Arizona http://nba.sports.163.com//player/1000000044/
+5 凯文-卢尼 大前锋 2.06m 99kg 22 0年 UCLA http://nba.sports.163.com//player/1000000047/
+0 德马库斯-考辛斯 中锋 2.11m 122kg 28 0年 Kentucky http://nba.sports.163.com//player/1000000193/
+3 泰勒-尤利斯 控球后卫 1.78m 72kg 22 0年 Kentucky http://nba.sports.163.com//player/1000000216/
+4 奎因-库克 控球后卫 1.88m 81kg 25 0年 Duke http://nba.sports.163.com//player/1000000274/
+21 约纳斯-杰雷布科 大前锋 2.08m 104kg 31 0年  http://nba.sports.163.com//player/1000000396/
+12 丹尼尔-豪斯 得分后卫 2.01m 93kg 25 0年 Texas-A&M http://nba.sports.163.com//player/1000000612/
+1 达米恩-李 得分后卫 1.98m 95kg 26 0年 Louisville http://nba.sports.163.com//player/1000000622/
+10 雅各布-埃文斯 得分后卫 1.98m 95kg 21 0年 Cincinnati http://nba.sports.163.com//player/1000000642/
+32 马库斯-德里克森 大前锋 2.01m 112kg 22 0年 Georgetown http://nba.sports.163.com//player/1000000643/
+6 威尔-谢里 控球后卫 1.83m 83kg 27 0年 Montana http://nba.sports.163.com//player/1000000657/
+28 阿方索-麦金尼 小前锋 2.03m 97kg 26 0年 Green-Bay http://nba.sports.163.com//player/1000000769/
+25 肯德里克-努恩 得分后卫 1.90m 87kg 23 0年 Oakland-University(MI) http://nba.sports.163.com//player/1000000770/
+0 德扬泰-戴维斯 中锋 2.13m 107kg 21 0年 Michigan-State http://nba.sports.163.com//player/1000000817/

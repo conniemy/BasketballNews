@@ -1,0 +1,23 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+22 亚历克斯-波伊思雷斯 大前锋 2.06m 106kg 25 0年 Kentucky http://nba.sports.163.com//player/1000000068/
+1 贾斯廷-安德森 得分后卫 1.98m 104kg 25 0年 Virginia http://nba.sports.163.com//player/1000000127/
+25 亚历克斯-莱恩 中锋 2.16m 113kg 25 0年 Maryland http://nba.sports.163.com//player/1000000210/
+20 约翰-科林斯 大前锋 2.08m 106kg 21 0年 Wake-Forest http://nba.sports.163.com//player/1000000259/
+24 肯特-贝兹莫尔 得分后卫 1.96m 91kg 29 0年 Old-Dominion http://nba.sports.163.com//player/1000000260/
+12 托里恩-普林斯 小前锋 2.03m 99kg 24 0年 Baylor http://nba.sports.163.com//player/1000000262/
+18 迈尔斯-普拉姆利 中锋 2.11m 112kg 30 0年 Duke http://nba.sports.163.com//player/1000000264/
+2 泰勒-多西 得分后卫 1.96m 83kg 22 0年 Oregon http://nba.sports.163.com//player/1000000268/
+14 德维恩-戴德蒙 中锋 2.13m 111kg 29 0年 Southern-California http://nba.sports.163.com//player/1000000271/
+95 德安德烈-本布里 小前锋 1.98m 95kg 24 0年 Saint-Joseph's http://nba.sports.163.com//player/1000000273/
+15 文斯-卡特 得分后卫 1.98m 99kg 41 0年 North-Carolina http://nba.sports.163.com//player/1000000314/
+7 林书豪 控球后卫 1.90m 90kg 30 0年 Harvard http://nba.sports.163.com//player/1000000319/
+45 科尔-阿尔德里奇 中锋 2.11m 114kg 30 0年 Kansas http://nba.sports.163.com//player/1000000509/
+6 杰里米-埃文斯 小前锋 2.06m 90kg 31 6年 Western-Kentucky http://nba.sports.163.com//player/1000000577/
+5 丹尼尔-汉密尔顿 得分后卫 2.01m 88kg 23 0年 Connecticut http://nba.sports.163.com//player/1000000597/
+4 Yannis-Morin 大前锋 2.08m 92kg 25 0年  http://nba.sports.163.com//player/1000000607/
+10 杰伦-亚当斯 得分后卫 1.88m 86kg 22 0年 St.Bonaventure http://nba.sports.163.com//player/1000000700/
+0 托马斯-鲁滨逊 大前锋 2.08m 107kg 27 0年 Kansas http://nba.sports.163.com//player/1000000701/
+3 凯文-休特 得分后卫 2.01m 86kg 20 0年 Maryland http://nba.sports.163.com//player/1000000702/
+6 奥马里-斯佩尔曼 大前锋 2.06m 111kg 21 0年 Villanova http://nba.sports.163.com//player/1000000703/
+11 特雷-杨 控球后卫 1.88m 81kg 20 0年 Oklahoma http://nba.sports.163.com//player/1000000704/
+8 CJ-安德森 控球后卫 1.96m 79kg 22 0年 Massachusetts http://nba.sports.163.com//player/1000000815/

@@ -1,0 +1,22 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+11 多曼塔斯-萨博尼斯 大前锋 2.11m 108kg 22 0年 Gonzaga http://nba.sports.163.com//player/1000000053/
+21 赛迪斯-杨 大前锋 2.03m 100kg 30 0年 Georgia-Tech http://nba.sports.163.com//player/1000000054/
+33 迈尔斯-特纳 中锋 2.11m 113kg 22 0年 Texas http://nba.sports.163.com//player/1000000055/
+44 博扬-博格丹诺维奇 小前锋 2.03m 97kg 29 0年  http://nba.sports.163.com//player/1000000058/
+22 TJ-利夫 大前锋 2.08m 102kg 21 0年 California-Los-Angeles http://nba.sports.163.com//player/1000000061/
+5 埃德蒙-萨姆纳 控球后卫 1.98m 79kg 22 0年 Xavier http://nba.sports.163.com//player/1000000062/
+4 维克托-奥拉迪波 得分后卫 1.93m 95kg 26 0年 Indiana http://nba.sports.163.com//player/1000000063/
+13 伊凯-阿尼博古 中锋 2.08m 113kg 20 0年 California-Los-Angeles http://nba.sports.163.com//player/1000000064/
+2 达伦-科里森 控球后卫 1.83m 79kg 31 0年 UCLA http://nba.sports.163.com//player/1000000065/
+26 本-摩尔 小前锋 2.03m 99kg 23 0年 SMU http://nba.sports.163.com//player/1000000066/
+12 泰瑞克-埃文斯 得分后卫 1.98m 99kg 29 0年 Memphis http://nba.sports.163.com//player/1000000164/
+32 达文-里德 得分后卫 1.96m 94kg 23 0年 Miami(FL) http://nba.sports.163.com//player/1000000214/
+10 凯尔-奥奎因 中锋 2.08m 113kg 28 0年 Norfolk-State http://nba.sports.163.com//player/1000000440/
+20 道格-麦克德莫特 小前锋 2.03m 102kg 26 0年 Creighton http://nba.sports.163.com//player/1000000450/
+23 CJ-威尔考克斯 得分后卫 1.96m 88kg 27 0年 Washington http://nba.sports.163.com//player/1000000586/
+14 奥马里-约翰逊 小前锋 2.06m 99kg 29 0年 Oregon-State http://nba.sports.163.com//player/1000000630/
+24 阿利兹-约翰逊 大前锋 2.06m 96kg 22 0年 Missouri-State http://nba.sports.163.com//player/1000000644/
+9 埃利加-斯图尔特 得分后卫 1.96m 87kg 23 0年 USC http://nba.sports.163.com//player/1000000645/
+3 阿隆-霍勒迪 控球后卫 1.85m 83kg 22 0年 California-Los-Angeles http://nba.sports.163.com//player/1000000646/
+6 科里-约瑟夫 控球后卫 1.90m 87kg 27 0年 Texas http://nba.sports.163.com//player/1000000768/
+0 德米特里斯-戴森 未知 1.96m 92kg  0年  http://nba.sports.163.com//player/1000000823/

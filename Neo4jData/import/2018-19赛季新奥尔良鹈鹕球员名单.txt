@@ -1,0 +1,23 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+4 埃尔弗里德-佩顿 控球后卫 1.93m 83kg 24 0年 Louisiana-Lafayette http://nba.sports.163.com//player/1000000077/
+8 贾利尔-奥卡福 中锋 2.11m 124kg 22 0年 Duke http://nba.sports.163.com//player/1000000133/
+55 伊托万-摩尔 得分后卫 1.93m 86kg 29 0年 Purdue http://nba.sports.163.com//player/1000000185/
+11 朱-霍勒迪 得分后卫 1.93m 92kg 28 0年 UCLA http://nba.sports.163.com//player/1000000186/
+13 谢赫-迪亚洛 大前锋 2.06m 99kg 22 0年 Kansas http://nba.sports.163.com//player/1000000187/
+15 弗兰克-杰克逊 得分后卫 1.90m 92kg 20 0年 Duke http://nba.sports.163.com//player/1000000188/
+42 阿莱克西-阿金萨 中锋 2.18m 112kg 30 0年  http://nba.sports.163.com//player/1000000189/
+2 伊恩-克拉克 得分后卫 1.90m 79kg 27 0年 Belmont http://nba.sports.163.com//player/1000000191/
+44 所罗门-希尔 小前锋 2.01m 102kg 27 0年 Arizona http://nba.sports.163.com//player/1000000195/
+23 安东尼-戴维斯 大前锋 2.08m 114kg 25 0年 Kentucky http://nba.sports.163.com//player/1000000196/
+21 达柳斯-米勒 小前锋 2.03m 102kg 28 0年 Kentucky http://nba.sports.163.com//player/1000000197/
+30 朱利叶斯-兰德尔 大前锋 2.06m 113kg 23 0年 Kentucky http://nba.sports.163.com//player/1000000228/
+33 韦斯利-约翰逊 小前锋 2.01m 97kg 31 0年 Syracuse http://nba.sports.163.com//player/1000000246/
+3 尼古拉-米罗蒂奇 大前锋 2.08m 113kg 27 0年  http://nba.sports.163.com//player/1000000289/
+1 贾莱特-杰克 控球后卫 1.90m 90kg 35 0年 Georgia-Tech http://nba.sports.163.com//player/1000000448/
+0 特洛伊-威廉姆斯 得分后卫 2.01m 98kg 23 0年 Indiana http://nba.sports.163.com//player/1000000489/
+33 贾伦-格林 小前锋 2.01m 97kg 27 0年 Texas-Christian http://nba.sports.163.com//player/1000000705/
+9 达柳斯-莫里斯 控球后卫 1.93m 88kg 27 0年 Michigan http://nba.sports.163.com//player/1000000706/
+34 肯里奇-威廉姆斯 得分后卫 2.01m 95kg 23 0年 TCU http://nba.sports.163.com//player/1000000707/
+5 特里文-布罗伊特 得分后卫 1.98m 89kg 24 0年 Xavier(Ohio) http://nba.sports.163.com//player/1000000708/
+12 布兰登-麦考伊 中锋 2.16m 113kg 20 0年 UNLV http://nba.sports.163.com//player/1000000730/
+10 蒂姆-弗雷泽 控球后卫 1.85m 77kg 28 0年 Penn-State http://nba.sports.163.com//player/1000000828/

@@ -1,0 +1,24 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+13 特里斯坦-汤普森 中锋 2.08m 107kg 27 0年 Texas http://nba.sports.163.com//player/1000000004/
+9 钱宁-弗莱 大前锋 2.13m 115kg 35 0年 Arizona http://nba.sports.163.com//player/1000000007/
+5 JR-史密斯 得分后卫 1.98m 102kg 33 0年  http://nba.sports.163.com//player/1000000008/
+0 凯文-勒夫 大前锋 2.08m 113kg 30 0年 UCLA http://nba.sports.163.com//player/1000000009/
+26 凯尔-科沃尔 得分后卫 2.01m 96kg 37 0年 Creighton http://nba.sports.163.com//player/1000000013/
+16 切迪-奥斯曼 小前锋 2.03m 97kg 23 0年  http://nba.sports.163.com//player/1000000014/
+41 安特-日日奇 中锋 2.11m 115kg 21 0年  http://nba.sports.163.com//player/1000000017/
+10 约翰-霍兰 得分后卫 1.96m 92kg 30 0年 BostonU. http://nba.sports.163.com//player/1000000018/
+55 安德鲁-哈里森 控球后卫 1.98m 96kg 24 0年 Kentucky http://nba.sports.163.com//player/1000000156/
+24 科比-西蒙斯 控球后卫 1.93m 77kg 21 0年 Arizona http://nba.sports.163.com//player/1000000162/
+8 乔丹-克拉克森 得分后卫 1.96m 87kg 26 0年 Missouri http://nba.sports.163.com//player/1000000225/
+22 小拉里-南斯 小前锋 2.06m 104kg 25 0年 Wyoming http://nba.sports.163.com//player/1000000235/
+15 萨姆-德克尔 小前锋 2.06m 104kg 24 0年 Wisconsin http://nba.sports.163.com//player/1000000250/
+12 大卫-努瓦巴 得分后卫 1.93m 99kg 25 0年  http://nba.sports.163.com//player/1000000294/
+3 乔治-希尔 控球后卫 1.90m 85kg 32 0年 Indiana Purdue-Indianapolis http://nba.sports.163.com//player/1000000302/
+1 罗德尼-胡德 得分后卫 2.03m 93kg 26 0年 Duke http://nba.sports.163.com//player/1000000407/
+4 以赛亚-泰勒 控球后卫 1.90m 77kg 24 1年 Texas http://nba.sports.163.com//player/1000000493/
+0 杰科里-威廉姆斯 小前锋 2.03m 99kg  0年 Middle-Tennessee-State http://nba.sports.163.com//player/1000000564/
+20 比利-普莱斯顿 大前锋 2.08m 108kg 21 0年 University-of-Kansas http://nba.sports.163.com//player/1000000640/
+2 科林-塞克斯顿 控球后卫 1.88m 86kg 19 0年 Alabama http://nba.sports.163.com//player/1000000641/
+6 勒维-兰多夫 得分后卫 1.96m 92kg 26 0年 Alabama http://nba.sports.163.com//player/1000000766/
+35 邦齐-科尔森 小前锋 1.98m 102kg 22 0年 Notre-Dame http://nba.sports.163.com//player/1000000767/
+0 伊曼努尔-特里 小前锋 2.06m 99kg 23 0年 Lincoln-Memorial(TN) http://nba.sports.163.com//player/1000000786/

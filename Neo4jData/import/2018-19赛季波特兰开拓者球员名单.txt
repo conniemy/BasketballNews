@@ -1,0 +1,19 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+11 迈耶斯-伦纳德 大前锋 2.16m 115kg 26 0年 Illinois http://nba.sports.163.com//player/1000000022/
+0 达米安-利拉德 控球后卫 1.90m 88kg 28 0年 Weber-State http://nba.sports.163.com//player/1000000023/
+8 艾尔-法鲁克-阿米奴 小前锋 2.06m 99kg 28 0年 Wake-Forest http://nba.sports.163.com//player/1000000024/
+27 优素福-努尔基奇 中锋 2.13m 124kg 24 0年  http://nba.sports.163.com//player/1000000027/
+33 扎克-科林斯 大前锋 2.13m 106kg 21 0年 Gonzaga http://nba.sports.163.com//player/1000000028/
+3 CJ-麦科勒姆 得分后卫 1.90m 86kg 27 0年 Lehigh http://nba.sports.163.com//player/1000000029/
+1 埃文-特纳 得分后卫 2.01m 99kg 30 0年 Ohio-State http://nba.sports.163.com//player/1000000030/
+10 杰克-莱曼 小前锋 2.06m 97kg 24 0年 Maryland http://nba.sports.163.com//player/1000000031/
+4 莫里斯-哈克利斯 小前锋 2.06m 99kg 25 0年 St.John's(NY) http://nba.sports.163.com//player/1000000032/
+50 凯莱布-斯瓦尼根 大前锋 2.06m 113kg 21 0年 Purdue http://nba.sports.163.com//player/1000000033/
+6 尼克-斯陶斯卡斯 得分后卫 1.98m 92kg 25 0年 Michigan http://nba.sports.163.com//player/1000000129/
+2 韦德-鲍德温 得分后卫 1.93m 90kg 22 0年 Vanderbilt http://nba.sports.163.com//player/1000000147/
+5 加里-佩顿二世 得分后卫 1.90m 86kg 25 1年 Oregon-State http://nba.sports.163.com//player/1000000175/
+31 塞思-库里 控球后卫 1.88m 83kg 28 0年 Duke http://nba.sports.163.com//player/1000000373/
+21 齐纳努-欧努阿库 中锋 2.08m 111kg 22 0年 Louisville http://nba.sports.163.com//player/1000000502/
+9 加里-特伦特 得分后卫 1.98m 92kg 19 0年 Duke http://nba.sports.163.com//player/1000000753/
+24 安芬尼-西蒙斯 得分后卫 1.93m 83kg 19 0年  http://nba.sports.163.com//player/1000000754/
+23 卡梅伦-奥利弗 大前锋 2.03m 102kg 22 0年 Nevada http://nba.sports.163.com//player/1000000785/

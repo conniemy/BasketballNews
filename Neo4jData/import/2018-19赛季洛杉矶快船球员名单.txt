@@ -1,0 +1,21 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+23 路易斯-威廉姆斯 得分后卫 1.85m 79kg 32 0年  http://nba.sports.163.com//player/1000000245/
+33 韦斯利-约翰逊 小前锋 2.01m 97kg 31 0年 Syracuse http://nba.sports.163.com//player/1000000246/
+8 达尼罗-加里纳利 小前锋 2.08m 102kg 30 0年  http://nba.sports.163.com//player/1000000248/
+0 辛达里厄斯-桑韦尔 得分后卫 1.96m 97kg 24 0年 South-Carolina http://nba.sports.163.com//player/1000000249/
+5 蒙特雷兹-哈雷尔 大前锋 2.03m 108kg 24 0年 Louisville http://nba.sports.163.com//player/1000000251/
+21 帕特里克-贝弗利 控球后卫 1.85m 83kg 30 0年 Arkansas http://nba.sports.163.com//player/1000000252/
+1 贾旺-埃文斯 控球后卫 1.83m 86kg 22 0年 Oklahoma-State http://nba.sports.163.com//player/1000000254/
+4 米洛什-特奥多西奇 控球后卫 1.96m 88kg 31 0年  http://nba.sports.163.com//player/1000000255/
+9 泰隆-华莱士 得分后卫 1.96m 89kg 24 0年 California http://nba.sports.163.com//player/1000000258/
+15 乔纳森-莫特利 大前锋 2.08m 104kg 23 0年 Baylor http://nba.sports.163.com//player/1000000375/
+12 卢克-理查德-巴莫特 大前锋 2.03m 104kg 32 0年 UCLA http://nba.sports.163.com//player/1000000498/
+30 迈克-斯科特 大前锋 2.03m 107kg 30 0年 Virginia http://nba.sports.163.com//player/1000000540/
+13 马尔钦-戈塔特 中锋 2.11m 108kg 34 0年  http://nba.sports.163.com//player/1000000541/
+51 博班-马扬诺维奇 中锋 2.21m 131kg 30 0年  http://nba.sports.163.com//player/1000000547/
+34 托拜厄斯-哈里斯 小前锋 2.06m 106kg 26 0年 Tennessee http://nba.sports.163.com//player/1000000553/
+11 埃弗里-布拉德利 得分后卫 1.88m 81kg 27 0年 Texas http://nba.sports.163.com//player/1000000556/
+20 德赛-罗德里格兹 小前锋 1.98m 99kg  0年 Seton-Hall http://nba.sports.163.com//player/1000000716/
+10 杰罗姆-罗宾逊 控球后卫 1.96m 86kg 21 0年 Boston-College http://nba.sports.163.com//player/1000000717/
+31 安吉尔-德尔加多 中锋 2.08m 111kg 24 0年 Seton-Hall http://nba.sports.163.com//player/1000000718/
+2 谢伊.吉尔杰斯-亚历山大 控球后卫 1.98m 82kg 20 0年 Kentucky http://nba.sports.163.com//player/1000000719/

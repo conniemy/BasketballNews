@@ -1,0 +1,21 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+81 何塞-卡尔德隆 控球后卫 1.90m 90kg 37 0年  http://nba.sports.163.com//player/1000000006/
+22 格伦-罗宾逊三世 得分后卫 1.98m 100kg 24 0年 Michigan http://nba.sports.163.com//player/1000000057/
+23 布雷克-格里芬 大前锋 2.08m 113kg 29 0年 Oklahoma http://nba.sports.163.com//player/1000000244/
+14 伊斯梅尔-史密斯 控球后卫 1.83m 79kg 30 0年 Wake-Forest http://nba.sports.163.com//player/1000000545/
+9 兰斯顿-加洛韦 控球后卫 1.88m 90kg 26 0年 Saint-Joseph's http://nba.sports.163.com//player/1000000546/
+25 雷吉-布洛克 小前锋 2.01m 92kg 27 0年 North-Carolina http://nba.sports.163.com//player/1000000549/
+0 安德烈-德拉蒙德 中锋 2.11m 126kg 25 0年 Connecticut http://nba.sports.163.com//player/1000000550/
+7 斯坦利-约翰逊 小前锋 2.01m 111kg 22 0年 Arizona http://nba.sports.163.com//player/1000000551/
+1 雷吉-杰克逊 控球后卫 1.90m 94kg 28 0年 Boston-College http://nba.sports.163.com//player/1000000552/
+5 卢克-肯纳德 得分后卫 1.96m 93kg 22 0年 Duke http://nba.sports.163.com//player/1000000555/
+30 乔恩-洛伊尔 大前锋 2.08m 103kg 29 0年 Wisconsin http://nba.sports.163.com//player/1000000558/
+8 亨利-埃伦森 大前锋 2.11m 111kg 21 0年 Marquette http://nba.sports.163.com//player/1000000559/
+27 扎扎-帕楚里亚 中锋 2.11m 122kg 34 0年  http://nba.sports.163.com//player/1000000590/
+37 雷吉-赫恩 得分后卫 1.96m 95kg 27 0年 Northwestern http://nba.sports.163.com//player/1000000608/
+13 凯里-托马斯 得分后卫 1.90m 95kg 22 0年 Creighton http://nba.sports.163.com//player/1000000667/
+24 约翰尼-汉密尔顿 中锋 2.13m 104kg 24 0年 Texas-Arlington http://nba.sports.163.com//player/1000000668/
+18 扎克-洛夫顿 得分后卫 1.93m 81kg 26 0年 New-Mexico-State http://nba.sports.163.com//player/1000000669/
+12 基南-埃文斯 控球后卫 1.90m 86kg 22 0年 Texas-Tech http://nba.sports.163.com//player/1000000670/
+6 布鲁斯-布莱恩 得分后卫 1.96m 91kg 22 0年 Miami(FL) http://nba.sports.163.com//player/1000000671/
+20 克里斯-麦卡洛 大前锋 2.11m 90kg 23 0年 Syracuse http://nba.sports.163.com//player/1000000764/

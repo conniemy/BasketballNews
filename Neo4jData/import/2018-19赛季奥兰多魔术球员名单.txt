@@ -1,0 +1,22 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+13 Isaiah-Briscoe 控球后卫 1.90m 90kg 22 0年 Kentucky http://nba.sports.163.com//player/1000000035/
+25 韦斯利-艾旺杜 小前锋 2.01m 88kg 23 0年 Kansas-State http://nba.sports.163.com//player/1000000072/
+0 阿龙-戈登 大前锋 2.06m 99kg 23 0年 Arizona http://nba.sports.163.com//player/1000000073/
+17 乔纳森-西蒙斯 得分后卫 1.98m 88kg 29 0年 Houston http://nba.sports.163.com//player/1000000075/
+9 尼古拉-武切维奇 中锋 2.13m 117kg 28 0年 Southern-California http://nba.sports.163.com//player/1000000078/
+1 乔纳森-艾萨克 小前锋 2.08m 95kg 21 0年 Florida-State http://nba.sports.163.com//player/1000000079/
+14 DJ-奥古斯丁 控球后卫 1.83m 83kg 31 0年 Texas http://nba.sports.163.com//player/1000000081/
+10 埃文-富尼耶 得分后卫 2.01m 92kg 26 0年  http://nba.sports.163.com//player/1000000082/
+31 特伦斯-罗斯 得分后卫 2.01m 93kg 27 0年 Washington http://nba.sports.163.com//player/1000000083/
+3 特洛伊-卡帕因 控球后卫 1.93m 95kg 22 0年 Cincinnati http://nba.sports.163.com//player/1000000086/
+2 贾雷尔-马丁 大前锋 2.08m 108kg 24 0年 Louisiana-State http://nba.sports.163.com//player/1000000148/
+22 杰里安-格兰特 得分后卫 1.93m 92kg 26 0年 Notre-Dame http://nba.sports.163.com//player/1000000288/
+21 季莫费-莫兹戈夫 中锋 2.16m 124kg 32 0年  http://nba.sports.163.com//player/1000000321/
+11 阿迈尔-杰弗森 大前锋 2.06m 100kg 25 0年 Duke http://nba.sports.163.com//player/1000000524/
+24 肯-伯奇 中锋 2.06m 105kg 26 0年 Nevada-Las-Vegas http://nba.sports.163.com//player/1000000565/
+35 梅尔文-弗雷泽 小前锋 1.98m 90kg 22 0年 Tulane http://nba.sports.163.com//player/1000000761/
+23 贾斯汀-杰克逊 小前锋 2.01m 103kg 21 0年 Maryland http://nba.sports.163.com//player/1000000762/
+5 穆罕默德-班巴 中锋 2.13m 100kg 20 0年 Texas http://nba.sports.163.com//player/1000000763/
+27 布莱恩-安戈拉-罗达斯 得分后卫 1.98m 88kg 24 0年 Florida-State http://nba.sports.163.com//player/1000000796/
+15 德温-戴维斯 小前锋 1.98m 102kg 23 0年 Houston http://nba.sports.163.com//player/1000000797/
+0 约翰-佩特拉特利 未知 1.93m 86kg 26 0年 Molloy http://nba.sports.163.com//player/1000000816/

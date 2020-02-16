@@ -1,0 +1,26 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+32 杰夫-格林 小前锋 2.06m 106kg 32 0年 Georgetown http://nba.sports.163.com//player/1000000012/
+13 托马斯-布莱恩特 中锋 2.11m 112kg 21 0年 Indiana http://nba.sports.163.com//player/1000000224/
+1 奥斯汀-里弗斯 得分后卫 1.93m 90kg 26 0年 Duke http://nba.sports.163.com//player/1000000247/
+8 萨姆-德克尔 小前锋 2.06m 104kg 24 0年 Wisconsin http://nba.sports.163.com//player/1000000250/
+15 奥卡罗-怀特 小前锋 2.03m 92kg 26 0年 Florida-State http://nba.sports.163.com//player/1000000366/
+21 德怀特-霍华德 中锋 2.11m 120kg 33 0年  http://nba.sports.163.com//player/1000000419/
+84 罗恩-贝克 得分后卫 1.93m 99kg 25 0年 Wichita-State http://nba.sports.163.com//player/1000000441/
+1 特雷沃-阿里扎 小前锋 2.03m 97kg 33 0年 UCLA http://nba.sports.163.com//player/1000000494/
+5 马基夫-莫里斯 大前锋 2.08m 111kg 29 0年 Kansas http://nba.sports.163.com//player/1000000527/
+2 约翰-沃尔 控球后卫 1.93m 95kg 28 0年 Kentucky http://nba.sports.163.com//player/1000000529/
+22 奥托-波特 小前锋 2.03m 89kg 25 0年 Georgetown http://nba.sports.163.com//player/1000000530/
+12 凯利-乌布雷 小前锋 2.01m 92kg 23 0年 Kansas http://nba.sports.163.com//player/1000000532/
+7 德文-罗宾逊 小前锋 2.03m 90kg 23 0年 Florida http://nba.sports.163.com//player/1000000534/
+31 托马什-萨托兰斯基 得分后卫 2.01m 95kg 27 0年  http://nba.sports.163.com//player/1000000536/
+28 伊安-马辛米 中锋 2.11m 118kg 32 0年  http://nba.sports.163.com//player/1000000538/
+3 布拉德利-比尔 控球后卫 1.96m 93kg 25 0年 Florida http://nba.sports.163.com//player/1000000542/
+9 查森-兰德尔 得分后卫 1.88m 83kg 25 0年 Stanford http://nba.sports.163.com//player/1000000639/
+6 特洛伊-布朗 小前锋 2.01m 97kg 19 0年 Oregon http://nba.sports.163.com//player/1000000653/
+24 拉沃伊-阿伦 大前锋 2.06m 117kg 29 0年 Temple http://nba.sports.163.com//player/1000000662/
+52 乔丹-麦克雷 得分后卫 1.96m 81kg 27 0年 Tennessee http://nba.sports.163.com//player/1000000663/
+8 蒂维安-肯德利 得分后卫 1.96m 86kg  0年 Morgan-State http://nba.sports.163.com//player/1000000664/
+4 克里斯-奇奥扎 控球后卫 1.83m 79kg  0年 Florida http://nba.sports.163.com//player/1000000665/
+0 斯奎夫-桑森 控球后卫 1.93m 86kg 19 0年  http://nba.sports.163.com//player/1000000666/
+20 约迪-米克斯 得分后卫 1.93m 95kg 31 0年 Kentucky http://nba.sports.163.com//player/1000000771/
+14 杰森-史密斯 大前锋 2.13m 108kg 32 0年 Colorado-State http://nba.sports.163.com//player/1000000789/

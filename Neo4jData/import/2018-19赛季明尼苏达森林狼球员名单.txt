@@ -1,0 +1,21 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+25 德里克-罗斯 控球后卫 1.90m 90kg 30 0年 Memphis http://nba.sports.163.com//player/1000000005/
+9 洛尔-邓 小前锋 2.06m 107kg 33 0年 Duke http://nba.sports.163.com//player/1000000232/
+12 CJ-威廉姆斯 得分后卫 1.96m 102kg 28 0年 North-Carolina-State http://nba.sports.163.com//player/1000000257/
+23 吉米-巴特勒 小前锋 2.03m 105kg 29 0年 Marquette http://nba.sports.163.com//player/1000000510/
+22 安德鲁-威金斯 小前锋 2.03m 87kg 23 0年 Kansas http://nba.sports.163.com//player/1000000511/
+24 贾斯廷-巴顿 中锋 2.13m 109kg 21 0年 Creighton http://nba.sports.163.com//player/1000000513/
+67 泰-吉布森 大前锋 2.06m 105kg 33 0年 Southern-California http://nba.sports.163.com//player/1000000514/
+0 杰夫-蒂格 控球后卫 1.88m 88kg 30 0年 Wake-Forest http://nba.sports.163.com//player/1000000515/
+32 卡尔-安东尼-唐斯 中锋 2.13m 112kg 23 0年 Kentucky http://nba.sports.163.com//player/1000000517/
+1 泰厄斯-琼斯 控球后卫 1.88m 88kg 22 0年 Duke http://nba.sports.163.com//player/1000000518/
+5 戈尔吉-吉昂 中锋 2.11m 114kg 28 0年 Louisville http://nba.sports.163.com//player/1000000522/
+43 安东尼-托利弗 大前锋 2.03m 113kg 33 0年 Creighton http://nba.sports.163.com//player/1000000548/
+20 约什-奥科吉 得分后卫 1.93m 96kg 20 0年 Georgia-Tech http://nba.sports.163.com//player/1000000682/
+13 德莱斯 约翰逊-奥多姆 得分后卫 1.88m 92kg 29 0年 Marquette http://nba.sports.163.com//player/1000000683/
+7 詹姆斯-农纳利 小前锋 2.01m 94kg 28 0年 California-Santa-Barbara http://nba.sports.163.com//player/1000000684/
+6 乔纳森-斯塔克 控球后卫 1.83m 81kg 23 0年 Murray-State http://nba.sports.163.com//player/1000000685/
+31 凯塔-贝茨-迪奥普 小前锋 2.06m 103kg 22 0年 Ohio-State http://nba.sports.163.com//player/1000000686/
+3 杰瑞-特雷尔 得分后卫 1.90m 102kg 23 0年 Rhode-Island http://nba.sports.163.com//player/1000000687/
+0 坎杨-巴里 未知 1.98m 97kg  0年  http://nba.sports.163.com//player/1000000826/
+0 威廉-李 未知 2.06m 97kg  0年  http://nba.sports.163.com//player/1000000827/

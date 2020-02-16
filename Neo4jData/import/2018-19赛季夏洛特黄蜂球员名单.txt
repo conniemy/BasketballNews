@@ -1,0 +1,21 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+8 俾斯麦-比永博 中锋 2.06m 115kg 26 0年  http://nba.sports.163.com//player/1000000080/
+1 马利克-蒙克 控球后卫 1.90m 90kg 20 0年 Kentucky http://nba.sports.163.com//player/1000000411/
+7 德维恩-培根 得分后卫 2.01m 100kg 23 0年 Florida-State http://nba.sports.163.com//player/1000000414/
+3 杰里米-兰姆 得分后卫 1.96m 83kg 26 0年 Connecticut http://nba.sports.163.com//player/1000000416/
+15 肯巴-沃克 控球后卫 1.85m 83kg 28 0年 Connecticut http://nba.sports.163.com//player/1000000417/
+5 尼古拉斯-巴图姆 得分后卫 2.03m 90kg 29 0年  http://nba.sports.163.com//player/1000000418/
+44 弗兰克-卡明斯基 大前锋 2.13m 109kg 25 0年 Wisconsin http://nba.sports.163.com//player/1000000420/
+2 马文-威廉姆斯 大前锋 2.06m 107kg 32 0年 North-Carolina http://nba.sports.163.com//player/1000000421/
+40 科迪-泽勒 中锋 2.13m 108kg 26 0年 Indiana http://nba.sports.163.com//player/1000000422/
+14 迈克尔-基德-吉尔克里斯特 小前锋 2.01m 105kg 25 0年 Kentucky http://nba.sports.163.com//player/1000000424/
+41 威利-埃尔南戈麦斯 中锋 2.11m 108kg 24 0年  http://nba.sports.163.com//player/1000000435/
+9 托尼-帕克 控球后卫 1.88m 83kg 36 0年  http://nba.sports.163.com//player/1000000461/
+4 德文特-格雷厄姆 控球后卫 1.88m 83kg 23 0年 Kansas http://nba.sports.163.com//player/1000000672/
+31 乔-切利 控球后卫 1.90m 86kg 23 0年 Charleston(SC) http://nba.sports.163.com//player/1000000673/
+0 阿诺尔达斯-库尔博卡 小前锋 2.08m 96kg 20 0年  http://nba.sports.163.com//player/1000000674/
+55 JP-马库拉 得分后卫 1.96m 92kg 23 0年 Xavier(Ohio) http://nba.sports.163.com//player/1000000675/
+0 迈尔斯-布里奇斯 小前锋 2.01m 102kg 20 0年 Michigan-State http://nba.sports.163.com//player/1000000676/
+10 杰伦-巴福德 控球后卫 1.88m 93kg 22 0年 Arkansas http://nba.sports.163.com//player/1000000772/
+21 以赛亚-威尔金斯 小前锋 2.03m 92kg 23 0年 Virginia http://nba.sports.163.com//player/1000000773/
+11 扎克-史密斯 小前锋 2.03m 99kg 22 0年 Texas-Tech http://nba.sports.163.com//player/1000000774/

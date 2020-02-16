@@ -1,0 +1,24 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+6 德安德烈-乔丹 中锋 2.11m 120kg 30 0年 Texas-A&M http://nba.sports.163.com//player/1000000242/
+50 萨拉赫-梅杰里 中锋 2.18m 106kg 32 0年  http://nba.sports.163.com//player/1000000374/
+34 德文-哈里斯 控球后卫 1.90m 83kg 35 0年 Wisconsin http://nba.sports.163.com//player/1000000377/
+10 多里安-芬尼-史密斯 小前锋 2.03m 99kg 25 0年 Florida http://nba.sports.163.com//player/1000000378/
+23 韦斯利-马修斯 得分后卫 1.96m 99kg 32 0年 Marquette http://nba.sports.163.com//player/1000000381/
+1 丹尼斯-史密斯 控球后卫 1.90m 88kg 20 0年 North-Carolina-State http://nba.sports.163.com//player/1000000383/
+7 德怀特-鲍威尔 大前锋 2.11m 108kg 27 0年 Stanford http://nba.sports.163.com//player/1000000384/
+41 德克-诺维茨基 大前锋 2.13m 111kg 40 0年  http://nba.sports.163.com//player/1000000385/
+5 何塞-巴里亚 控球后卫 1.83m 83kg 34 0年 Northeastern http://nba.sports.163.com//player/1000000386/
+40 哈里森-巴恩斯 小前锋 2.03m 102kg 26 0年 North-Carolina http://nba.sports.163.com//player/1000000388/
+42 马克西-克勒贝尔 大前锋 2.11m 108kg 26 0年  http://nba.sports.163.com//player/1000000583/
+9 阿隆-哈里森 得分后卫 1.98m 95kg 24 0年 Kentucky http://nba.sports.163.com//player/1000000623/
+11 科迪 米勒-麦金泰尔 得分后卫 1.90m 92kg 24 0年 Wake-Forest http://nba.sports.163.com//player/1000000734/
+8 丁彦雨航 得分后卫 2.01m 90kg 25 0年  http://nba.sports.163.com//player/1000000735/
+26 雷-斯波尔丁 大前锋 2.08m 97kg 21 0年 Louisville http://nba.sports.163.com//player/1000000736/
+13 杰伦-布伦森 控球后卫 1.90m 86kg 22 0年 Villanova http://nba.sports.163.com//player/1000000737/
+45 瑞安-布鲁克霍夫 得分后卫 2.01m 97kg 28 0年 Valparaiso http://nba.sports.163.com//player/1000000738/
+37 科斯塔斯-阿特托昆博 小前锋 2.08m 90kg 21 0年 Dayton http://nba.sports.163.com//player/1000000739/
+77 卢卡-东契奇 得分后卫 2.01m 98kg 19 0年  http://nba.sports.163.com//player/1000000740/
+3 达丽尔-麦肯 控球后卫 1.90m 83kg 22 0年 Arkansas http://nba.sports.163.com//player/1000000741/
+21 杰伦-琼斯 小前锋 2.01m 99kg 25 0年 Texas-A&M http://nba.sports.163.com//player/1000000793/
+0 丹特-英格拉姆 未知 1.98m 97kg 22 0年 Loyola(Chicago) http://nba.sports.163.com//player/1000000811/
+20 拉沙德-沃恩 得分后卫 1.98m 95kg 22 0年 UNLV http://nba.sports.163.com//player/1000000812/

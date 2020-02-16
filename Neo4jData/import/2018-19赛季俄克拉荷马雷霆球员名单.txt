@@ -1,0 +1,25 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+11 阿卜杜勒-纳迪尔 小前锋 1.98m 102kg 25 0年 Iowa-State http://nba.sports.163.com//player/1000000099/
+7 蒂莫泰-卢瓦乌-卡巴罗 得分后卫 1.98m 95kg 23 0年  http://nba.sports.163.com//player/1000000128/
+17 丹尼斯-施罗德 控球后卫 1.85m 78kg 25 0年  http://nba.sports.163.com//player/1000000269/
+8 亚历克斯-阿布里内斯 得分后卫 1.98m 90kg 25 0年  http://nba.sports.163.com//player/1000000335/
+54 帕特里克-帕特森 大前锋 2.06m 104kg 29 0年 Kentucky http://nba.sports.163.com//player/1000000336/
+9 杰拉米-格兰特 小前锋 2.06m 99kg 24 0年 Syracuse http://nba.sports.163.com//player/1000000337/
+21 安德烈-罗伯森 得分后卫 2.01m 95kg 26 0年 Colorado http://nba.sports.163.com//player/1000000338/
+0 拉塞尔-维斯布鲁克 控球后卫 1.90m 90kg 30 0年 UCLA http://nba.sports.163.com//player/1000000339/
+2 雷蒙德-费尔顿 控球后卫 1.85m 92kg 34 0年 North Carolina http://nba.sports.163.com//player/1000000340/
+12 史蒂文-亚当斯 中锋 2.13m 120kg 25 0年 Pittsburgh http://nba.sports.163.com//player/1000000341/
+23 特伦斯-弗格森 得分后卫 2.01m 86kg 20 0年  http://nba.sports.163.com//player/1000000343/
+13 保罗-乔治 小前锋 2.06m 99kg 28 0年 Fresno-State http://nba.sports.163.com//player/1000000347/
+3 纳伦斯-诺埃尔 大前锋 2.11m 99kg 24 0年 Kentucky http://nba.sports.163.com//player/1000000376/
+0 丹特-格兰瑟姆 小前锋 2.03m 97kg 23 0年 Clemson http://nba.sports.163.com//player/1000000747/
+6 哈米杜-迪亚洛 得分后卫 1.96m 89kg 20 0年 Kentucky http://nba.sports.163.com//player/1000000748/
+37 凯文-赫维 小前锋 2.03m 104kg 22 0年 Texas-Arlington http://nba.sports.163.com//player/1000000749/
+30 德文特-伯顿 得分后卫 1.96m 113kg 24 0年 Iowa-State http://nba.sports.163.com//player/1000000750/
+34 泰勒-戴维斯 中锋 2.08m 120kg 21 0年 Texas-A&M http://nba.sports.163.com//player/1000000751/
+0 德文-霍尔 得分后卫 1.98m 93kg 23 0年 Virginia http://nba.sports.163.com//player/1000000752/
+5 理查德-萨洛蒙 中锋 2.11m 106kg 26 0年 California http://nba.sports.163.com//player/1000000782/
+22 布赖斯-奥尔福德 控球后卫 1.90m 83kg 23 0年 UCLA http://nba.sports.163.com//player/1000000783/
+25 阿布德尔-加迪 得分后卫 1.90m 83kg 26 0年 Washington http://nba.sports.163.com//player/1000000784/
+30 迪昂特-伯顿 控球后卫 1.96m 111kg 24 0年 Iowa-State http://nba.sports.163.com//player/1000000794/
+14 KJ-麦克丹尼尔斯 小前锋 1.98m 92kg 25 0年 Clemson http://nba.sports.163.com//player/1000000795/

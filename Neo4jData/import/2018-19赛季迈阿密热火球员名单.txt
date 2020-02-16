@@ -1,0 +1,25 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+5 小德里克-琼斯 小前锋 2.01m 90kg 21 0年 Nevada-Las-Vegas http://nba.sports.163.com//player/1000000215/
+4 布里安特-韦伯 控球后卫 1.88m 74kg 25 2年 VCU http://nba.sports.163.com//player/1000000241/
+3 德维恩-韦德 得分后卫 1.93m 99kg 36 0年 Marquette http://nba.sports.163.com//player/1000000282/
+20 贾斯蒂斯-温斯洛 小前锋 2.01m 102kg 22 0年 Duke http://nba.sports.163.com//player/1000000354/
+13 埃德里斯-阿德巴约 中锋 2.08m 115kg 21 0年 Kentucky http://nba.sports.163.com//player/1000000355/
+11 迪昂-维特斯 得分后卫 1.93m 97kg 26 0年 Syracuse http://nba.sports.163.com//player/1000000356/
+16 詹姆斯-约翰逊 大前锋 2.03m 108kg 31 0年 Wake-Forest http://nba.sports.163.com//player/1000000357/
+21 哈桑-怀特塞德 中锋 2.13m 120kg 29 0年 Marshall http://nba.sports.163.com//player/1000000358/
+2 韦恩-艾灵顿 得分后卫 1.96m 90kg 30 0年 North-Carolina http://nba.sports.163.com//player/1000000359/
+8 泰勒-约翰逊 得分后卫 1.93m 86kg 26 0年 Fresno-State http://nba.sports.163.com//player/1000000362/
+9 凯利-奥利尼克 大前锋 2.13m 108kg 27 0年 Gonzaga http://nba.sports.163.com//player/1000000363/
+17 罗德尼-麦格鲁德 得分后卫 1.93m 90kg 27 0年 Kansas-State http://nba.sports.163.com//player/1000000365/
+40 犹多尼斯-哈斯勒姆 大前锋 2.03m 106kg 38 0年 Florida http://nba.sports.163.com//player/1000000367/
+0 约什-理查德森 小前锋 1.98m 90kg 25 0年 Tennessee http://nba.sports.163.com//player/1000000368/
+7 戈兰-德拉季奇 控球后卫 1.90m 86kg 32 0年  http://nba.sports.163.com//player/1000000369/
+55 邓肯-鲁宾逊 小前锋 2.03m 95kg 24 0年 Michigan http://nba.sports.163.com//player/1000000724/
+0 延特-马丁 大前锋 2.03m 108kg 22 0年 Georgia http://nba.sports.163.com//player/1000000725/
+24 马库斯-李 小前锋 2.08m 102kg 24 0年 California http://nba.sports.163.com//player/1000000726/
+12 贾内尔-斯托克斯 大前锋 2.06m 117kg 24 0年 Tennessee http://nba.sports.163.com//player/1000000727/
+14 马利克-纽曼 控球后卫 1.90m 86kg 21 0年 Kansas http://nba.sports.163.com//player/1000000728/
+18 德安德烈-利金斯 得分后卫 1.98m 94kg 30 0年 Kentucky http://nba.sports.163.com//player/1000000806/
+25 查尔斯-库克 得分后卫 1.96m 88kg 24 0年 Dayton http://nba.sports.163.com//player/1000000807/
+0 拉菲尔-普特尼 大前锋 2.08m 83kg 28 0年 Massachusetts http://nba.sports.163.com//player/1000000818/
+0 罗德尼-普维斯 控球后卫 1.93m 92kg 24 0年 Connecticut http://nba.sports.163.com//player/1000000819/

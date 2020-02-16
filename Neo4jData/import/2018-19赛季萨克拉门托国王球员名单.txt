@@ -1,0 +1,21 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+9 伊曼-香珀特 得分后卫 1.96m 97kg 28 0年 Georgia-Tech http://nba.sports.163.com//player/1000000002/
+23 本-麦克勒摩 得分后卫 1.96m 91kg 25 0年 Kansas http://nba.sports.163.com//player/1000000149/
+25 贾斯廷-杰克逊 小前锋 2.03m 95kg 23 0年 North-Carolina http://nba.sports.163.com//player/1000000299/
+0 威利-考利-斯坦 中锋 2.13m 108kg 25 0年 Kentucky http://nba.sports.163.com//player/1000000300/
+20 哈里-贾尔斯 大前锋 2.08m 108kg 20 0年 Duke http://nba.sports.163.com//player/1000000303/
+24 巴迪-希尔德 得分后卫 1.93m 97kg 24 0年 Oklahoma http://nba.sports.163.com//player/1000000304/
+41 科斯塔-库佛斯 中锋 2.13m 111kg 29 0年 Ohio-State http://nba.sports.163.com//player/1000000306/
+7 斯卡尔-拉比西埃 大前锋 2.11m 106kg 22 0年 Kentucky http://nba.sports.163.com//player/1000000308/
+10 弗兰克-梅森 控球后卫 1.80m 86kg 24 0年 Kansas http://nba.sports.163.com//player/1000000309/
+8 博格丹-博格丹诺维奇 得分后卫 1.98m 92kg 26 0年  http://nba.sports.163.com//player/1000000310/
+5 达龙-福克斯 控球后卫 1.90m 79kg 20 0年 Kentucky http://nba.sports.163.com//player/1000000311/
+50 扎克-兰多夫 大前锋 2.06m 113kg 37 0年 Michigan-State http://nba.sports.163.com//player/1000000313/
+3 约吉-费雷尔 控球后卫 1.83m 81kg 25 0年 Indiana http://nba.sports.163.com//player/1000000382/
+0 贾米尔-阿尔蒂斯 得分后卫 2.01m 96kg 25 0年 Pittsburgh http://nba.sports.163.com//player/1000000447/
+19 特洛伊-威廉姆斯 得分后卫 2.01m 98kg 23 0年 Indiana http://nba.sports.163.com//player/1000000489/
+88 内马尼亚-别利察 大前锋 2.08m 106kg 30 0年  http://nba.sports.163.com//player/1000000516/
+32 文言-加布里埃尔 大前锋 2.06m 92kg 21 0年 Kentucky http://nba.sports.163.com//player/1000000755/
+35 马文-巴格利 大前锋 2.11m 106kg 19 0年 Duke http://nba.sports.163.com//player/1000000756/
+13 卡梅伦-雷诺兹 得分后卫 2.03m 102kg 23 0年 Tulane http://nba.sports.163.com//player/1000000765/
+0 加比-文森特 控球后卫 1.90m 90kg 22 0年 UC-Santa-Barbara http://nba.sports.163.com//player/1000000803/

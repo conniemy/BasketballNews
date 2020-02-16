@@ -1,0 +1,22 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+23 勒布朗-詹姆斯 小前锋 2.03m 113kg 33 0年  http://nba.sports.163.com//player/1000000001/
+6 兰斯-斯蒂芬森 得分后卫 1.98m 104kg 28 0年 Cincinnati http://nba.sports.163.com//player/1000000052/
+9 拉简-隆多 控球后卫 1.85m 84kg 32 0年 Kentucky http://nba.sports.163.com//player/1000000190/
+5 泰森-钱德勒 中锋 2.16m 108kg 36 0年  http://nba.sports.163.com//player/1000000212/
+2 朗佐-鲍尔 控球后卫 1.98m 86kg 21 0年 California-Los-Angeles http://nba.sports.163.com//player/1000000226/
+40 伊维察-祖巴茨 中锋 2.16m 108kg 21 0年  http://nba.sports.163.com//player/1000000229/
+0 凯尔-库兹马 小前锋 2.06m 99kg 23 0年 Utah http://nba.sports.163.com//player/1000000231/
+14 布兰登-英格拉姆 小前锋 2.06m 86kg 21 0年 Duke http://nba.sports.163.com//player/1000000233/
+4 亚历克斯-卡鲁索 控球后卫 1.96m 84kg 24 0年 Texas-A&M http://nba.sports.163.com//player/1000000234/
+1 肯塔维奥斯-卡德维尔-波普 得分后卫 1.96m 92kg 25 0年 Georgia http://nba.sports.163.com//player/1000000237/
+3 约什-哈特 得分后卫 1.96m 97kg 23 0年 Villanova http://nba.sports.163.com//player/1000000239/
+11 迈克尔-比斯利 小前锋 2.06m 106kg 29 0年 Kansas-State http://nba.sports.163.com//player/1000000437/
+7 贾维尔-麦基 中锋 2.13m 122kg 30 0年 Nevada http://nba.sports.163.com//player/1000000589/
+21 特拉维斯-维尔 小前锋 2.06m 99kg 28 0年 UCLA http://nba.sports.163.com//player/1000000614/
+20 安德烈-英格拉姆 得分后卫 1.90m 86kg 33 0年 American http://nba.sports.163.com//player/1000000631/
+17 伊萨克-邦加 得分后卫 2.03m 81kg 19 0年  http://nba.sports.163.com//player/1000000694/
+19 约翰纳森-威廉姆斯 大前锋 2.06m 103kg 23 0年 Gonzaga http://nba.sports.163.com//player/1000000695/
+10 斯维亚托斯拉夫-米哈伊柳克 小前锋 2.03m 92kg 21 0年 Kansas http://nba.sports.163.com//player/1000000696/
+15 莫里茨-瓦格纳 中锋 2.11m 111kg 21 0年 Michigan http://nba.sports.163.com//player/1000000697/
+30 杰弗里-卡罗尔 得分后卫 1.98m 95kg 24 0年 Oklahoma-State http://nba.sports.163.com//player/1000000775/
+18 乔尔-贝里二世 控球后卫 1.83m 88kg 23 0年 North-Carolina http://nba.sports.163.com//player/1000000776/

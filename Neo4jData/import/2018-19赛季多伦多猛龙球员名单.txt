@@ -1,0 +1,21 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+20 凯-费尔德 控球后卫 1.75m 79kg 23 1年 Oakland http://nba.sports.163.com//player/1000000011/
+25 克里斯-布歇 大前锋 2.08m 90kg 25 0年 Oregon http://nba.sports.163.com//player/1000000048/
+9 赛尔吉-伊巴卡 中锋 2.08m 106kg 29 0年  http://nba.sports.163.com//player/1000000107/
+55 德朗-赖特 控球后卫 1.96m 83kg 26 0年 Utah http://nba.sports.163.com//player/1000000108/
+43 帕斯卡尔-西亚卡姆 大前锋 2.06m 104kg 24 0年 New-Mexico-State http://nba.sports.163.com//player/1000000109/
+23 弗雷德-范弗利特 控球后卫 1.83m 88kg 24 0年 Wichita-State http://nba.sports.163.com//player/1000000110/
+0 CJ-迈尔斯 小前锋 1.98m 99kg 31 0年  http://nba.sports.163.com//player/1000000114/
+7 凯尔-洛里 控球后卫 1.85m 88kg 32 0年 Villanova http://nba.sports.163.com//player/1000000117/
+3 OG-阿奴诺比 小前锋 2.03m 105kg 21 0年 Indiana http://nba.sports.163.com//player/1000000118/
+4 洛伦佐-布朗 控球后卫 1.96m 85kg 28 0年 North-Carolina-State http://nba.sports.163.com//player/1000000119/
+17 约纳斯-瓦兰丘纳斯 中锋 2.13m 120kg 26 0年  http://nba.sports.163.com//player/1000000120/
+24 诺曼-鲍威尔 小前锋 1.93m 97kg 25 0年 UCLA http://nba.sports.163.com//player/1000000123/
+15 格雷格-门罗 中锋 2.11m 120kg 28 0年 Georgetown http://nba.sports.163.com//player/1000000173/
+22 马拉奇-理查德森 得分后卫 1.98m 92kg 22 0年 Syracuse http://nba.sports.163.com//player/1000000307/
+14 丹尼-格林 得分后卫 1.98m 97kg 31 0年 North-Carolina http://nba.sports.163.com//player/1000000454/
+2 科怀-莱纳德 小前锋 2.01m 104kg 27 0年 San-Diego-State http://nba.sports.163.com//player/1000000462/
+1 埃里克-莫兰 中锋 2.08m 107kg 26 0年 Oregon-State http://nba.sports.163.com//player/1000000557/
+5 Davion-Berry 得分后卫 1.93m 83kg  0年 Weber-State http://nba.sports.163.com//player/1000000605/
+8 约旦-劳埃德 控球后卫 1.93m 95kg 25 0年 Indianapolis http://nba.sports.163.com//player/1000000715/
+12 邓-阿德尔 小前锋 2.01m 90kg 21 0年 Louisville http://nba.sports.163.com//player/1000000781/

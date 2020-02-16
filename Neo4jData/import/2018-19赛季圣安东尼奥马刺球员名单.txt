@@ -1,0 +1,22 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+26 本-摩尔 小前锋 2.03m 99kg 23 0年 SMU http://nba.sports.163.com//player/1000000066/
+10 德马尔-德罗赞 得分后卫 2.01m 99kg 29 0年 Southern-California http://nba.sports.163.com//player/1000000111/
+25 雅各布-珀尔特尔 中锋 2.13m 104kg 23 0年 Utah http://nba.sports.163.com//player/1000000122/
+33 丹特-坎宁安 小前锋 2.03m 104kg 31 0年 Villanova http://nba.sports.163.com//player/1000000200/
+18 马科-贝里内利 得分后卫 1.96m 95kg 32 0年  http://nba.sports.163.com//player/1000000261/
+3 昆西-庞德塞特 小前锋 2.01m 104kg 30 0年 Washington http://nba.sports.163.com//player/1000000296/
+17 奥卡罗-怀特 小前锋 2.03m 92kg 26 0年 Florida-State http://nba.sports.163.com//player/1000000366/
+12 拉马库斯-阿尔德里奇 大前锋 2.11m 117kg 33 0年 Texas http://nba.sports.163.com//player/1000000453/
+16 保罗-加索尔 中锋 2.13m 113kg 38 0年  http://nba.sports.163.com//player/1000000455/
+22 鲁迪-盖伊 小前锋 2.03m 104kg 32 0年 Connecticut http://nba.sports.163.com//player/1000000457/
+5 德章泰-穆雷 控球后卫 1.96m 77kg 22 0年 Washington http://nba.sports.163.com//player/1000000458/
+4 德里克-怀特 控球后卫 1.93m 86kg 24 0年 Colorado http://nba.sports.163.com//player/1000000459/
+8 帕蒂-米尔斯 控球后卫 1.83m 81kg 30 0年 Saint-Mary's(CA) http://nba.sports.163.com//player/1000000460/
+42 戴维斯-贝尔坦斯 大前锋 2.08m 102kg 26 0年  http://nba.sports.163.com//player/1000000463/
+11 布林-福布斯 控球后卫 1.90m 86kg 25 0年 Michigan-State http://nba.sports.163.com//player/1000000464/
+15 杰朗-布洛瑟姆盖姆 小前锋 2.01m 99kg 25 0年 Clemson http://nba.sports.163.com//player/1000000654/
+14 德鲁-尤班克斯 大前锋 2.08m 111kg 21 0年 Oregon-State http://nba.sports.163.com//player/1000000711/
+7 奇梅齐耶-梅图 大前锋 2.08m 102kg 21 0年 Southern-California http://nba.sports.163.com//player/1000000712/
+24 尼克-约翰逊 得分后卫 1.90m 90kg 25 0年 Arizona http://nba.sports.163.com//player/1000000713/
+1 朗尼-沃克 得分后卫 1.96m 92kg 19 0年 Miami(FL) http://nba.sports.163.com//player/1000000714/
+0 乔什-休斯蒂斯 小前锋 2.01m 104kg 26 0年 Stanford http://nba.sports.163.com//player/1000000792/

@@ -1,0 +1,23 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+32 诺阿-冯莱 大前锋 2.06m 113kg 23 0年 Indiana http://nba.sports.163.com//player/1000000025/
+8 马里奥-海佐尼亚 小前锋 2.03m 102kg 23 0年  http://nba.sports.163.com//player/1000000076/
+0 卡迪姆-阿伦 控球后卫 1.90m 97kg 25 0年 Arizona http://nba.sports.163.com//player/1000000102/
+4 以赛亚-希克斯 大前锋 2.06m 104kg 24 0年 North-Carolina http://nba.sports.163.com//player/1000000427/
+21 丹伊恩-多特森 得分后卫 1.98m 95kg 24 0年 Houston http://nba.sports.163.com//player/1000000430/
+3 小蒂姆-哈达威 小前锋 1.98m 92kg 26 0年 Michigan http://nba.sports.163.com//player/1000000431/
+11 弗朗克-尼利基纳 控球后卫 1.98m 90kg 20 0年  http://nba.sports.163.com//player/1000000432/
+6 克里斯塔普斯-波尔津吉斯 大前锋 2.21m 108kg 23 0年  http://nba.sports.163.com//player/1000000433/
+5 考特尼-李 得分后卫 1.96m 97kg 33 0年 Western-Kentucky http://nba.sports.163.com//player/1000000434/
+13 乔金-诺阿 中锋 2.11m 104kg 33 0年 Florida http://nba.sports.163.com//player/1000000438/
+31 罗恩-贝克 得分后卫 1.93m 99kg 25 0年 Wichita-State http://nba.sports.163.com//player/1000000441/
+42 兰斯-托马斯 小前锋 2.03m 108kg 30 0年 Duke http://nba.sports.163.com//player/1000000442/
+2 卢克-科内特 大前锋 2.16m 113kg 23 0年 Vanderbilt http://nba.sports.163.com//player/1000000444/
+0 埃内斯-坎特 中锋 2.11m 113kg 26 0年 Kentucky http://nba.sports.163.com//player/1000000449/
+1 伊曼纽尔-穆迪埃 控球后卫 1.96m 90kg 22 0年  http://nba.sports.163.com//player/1000000478/
+23 克里斯 莱特 小前锋 2.06m 102kg 30 2年 Dayton http://nba.sports.163.com//player/1000000606/
+20 凯文-诺克斯 小前锋 2.06m 97kg 19 0年 Kentucky http://nba.sports.163.com//player/1000000650/
+26 米切尔-罗宾逊 中锋 2.16m 108kg 20 0年  http://nba.sports.163.com//player/1000000651/
+14 阿隆佐-特里尔 得分后卫 1.96m 90kg 22 0年 University-of-Arizona http://nba.sports.163.com//player/1000000652/
+0 提利乌斯-沃克 控球后卫 1.85m 83kg  0年 Morehouse http://nba.sports.163.com//player/1000000656/
+0 约翰-詹金斯 得分后卫 1.93m 97kg 27 0年 Vanderbilt http://nba.sports.163.com//player/1000000801/
+18 杰夫-考比 小前锋 2.03m 101kg 24 0年 Columbia http://nba.sports.163.com//player/1000000805/

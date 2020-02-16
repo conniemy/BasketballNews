@@ -1,0 +1,22 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+13 马库斯-莫里斯 大前锋 2.06m 106kg 29 0年 Kansas http://nba.sports.163.com//player/1000000091/
+0 杰森-塔图姆 小前锋 2.03m 94kg 20 0年 Duke http://nba.sports.163.com//player/1000000093/
+20 戈登-海沃德 小前锋 2.03m 102kg 28 0年 Butler http://nba.sports.163.com//player/1000000094/
+36 马库斯-斯马特 控球后卫 1.93m 99kg 24 0年 Oklahoma-State http://nba.sports.163.com//player/1000000095/
+46 阿隆-贝恩斯 中锋 2.08m 117kg 31 0年 Washington-State http://nba.sports.163.com//player/1000000096/
+42 艾尔-霍弗德 中锋 2.08m 111kg 32 0年 Florida http://nba.sports.163.com//player/1000000097/
+12 特里-罗齐尔 控球后卫 1.85m 86kg 24 0年 Louisville http://nba.sports.163.com//player/1000000098/
+26 贾巴里-伯德 得分后卫 1.98m 89kg 24 0年 California http://nba.sports.163.com//player/1000000100/
+37 谢米-奥杰莱 小前锋 2.01m 109kg 23 0年 Southern-Methodist http://nba.sports.163.com//player/1000000101/
+7 杰伦-布朗 小前锋 2.01m 99kg 22 0年 California http://nba.sports.163.com//player/1000000103/
+11 凯里-欧文 控球后卫 1.90m 87kg 26 0年 Duke http://nba.sports.163.com//player/1000000104/
+30 盖尔雄-亚布塞莱 大前锋 2.03m 117kg 22 0年  http://nba.sports.163.com//player/1000000566/
+27 丹尼尔-泰斯 大前锋 2.03m 110kg 26 0年  http://nba.sports.163.com//player/1000000567/
+50 PJ-多齐尔 得分后卫 1.98m 92kg 22 0年 South-Carolina http://nba.sports.163.com//player/1000000582/
+45 沃尔特-莱蒙 得分后卫 1.90m 81kg 26 0年 Bradley http://nba.sports.163.com//player/1000000616/
+9 布拉德利-沃纳梅克 控球后卫 1.93m 95kg 29 0年 Pittsburgh http://nba.sports.163.com//player/1000000709/
+44 罗伯特-威廉姆斯 中锋 2.08m 108kg 21 0年 Texas-A&M http://nba.sports.163.com//player/1000000710/
+28 杰夫-罗伯森 小前锋 1.98m 99kg  0年 Vanderbilt http://nba.sports.163.com//player/1000000778/
+55 尼克-金 小前锋 2.01m 102kg 23 0年 Middle-Tennessee-State http://nba.sports.163.com//player/1000000779/
+40 贾斯汀-比布斯 得分后卫 1.96m 99kg 22 0年 Virginia-Tech http://nba.sports.163.com//player/1000000780/
+8 马库斯-乔治-亨特 小前锋 1.96m 102kg 24 0年 Georgia-Tech http://nba.sports.163.com//player/1000000791/

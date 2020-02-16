@@ -1,0 +1,24 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+9 达里奥-沙里奇 大前锋 2.08m 101kg 24 0年  http://nba.sports.163.com//player/1000000126/
+25 本-西蒙斯 控球后卫 2.08m 104kg 22 0年 Louisiana-State http://nba.sports.163.com//player/1000000130/
+33 罗伯特-科温顿 小前锋 2.06m 102kg 27 0年 Tennessee-State http://nba.sports.163.com//player/1000000131/
+20 马克尔-富尔茨 控球后卫 1.93m 90kg 20 0年 Washington http://nba.sports.163.com//player/1000000132/
+5 阿米尔-约翰逊 中锋 2.06m 108kg 31 0年  http://nba.sports.163.com//player/1000000134/
+21 乔尔-恩比德 中锋 2.13m 113kg 24 0年 Kansas http://nba.sports.163.com//player/1000000135/
+17 JJ-雷迪克 得分后卫 1.93m 90kg 34 0年 Duke http://nba.sports.163.com//player/1000000136/
+12 TJ-麦康奈尔 控球后卫 1.88m 86kg 26 0年 Arizona http://nba.sports.163.com//player/1000000137/
+30 富尔坎-科尔克马兹 得分后卫 2.01m 86kg 21 0年  http://nba.sports.163.com//player/1000000138/
+0 杰里-贝勒斯 控球后卫 1.90m 90kg 30 0年 Arizona http://nba.sports.163.com//player/1000000140/
+50 埃梅卡-奥卡福 中锋 2.08m 115kg 36 0年 Connecticut http://nba.sports.163.com//player/1000000145/
+31 迈克-穆斯卡拉 大前锋 2.11m 108kg 27 0年 Bucknell http://nba.sports.163.com//player/1000000265/
+22 威尔森-钱德勒 大前锋 2.06m 102kg 31 0年 DePaul http://nba.sports.163.com//player/1000000485/
+11 迪米特里厄斯-杰克逊 控球后卫 1.85m 91kg 24 0年 Notre-Dame http://nba.sports.163.com//player/1000000507/
+14 安东尼-布朗 小前锋 2.01m 101kg 26 0年 Stanford http://nba.sports.163.com//player/1000000521/
+43 乔纳-博尔登 大前锋 2.08m 99kg 22 0年 UCLA http://nba.sports.163.com//player/1000000637/
+8 扎伊尔-史密斯 得分后卫 1.93m 90kg 19 0年 Texas-Tech http://nba.sports.163.com//player/1000000658/
+1 兰德里-沙梅特 控球后卫 1.96m 85kg 21 0年 Wichita-State http://nba.sports.163.com//player/1000000659/
+18 谢克-密尔顿 得分后卫 1.98m 93kg 22 0年 Southern-Methodist http://nba.sports.163.com//player/1000000660/
+1 诺维尔-佩尔 中锋 2.11m 97kg 25 0年  http://nba.sports.163.com//player/1000000661/
+0 DJ-霍格 小前锋 2.06m 97kg 22 0年 Texas-A&M http://nba.sports.163.com//player/1000000808/
+0 科里-杰佛森 大前锋 2.06m 98kg 27 0年 Baylor http://nba.sports.163.com//player/1000000824/
+0 达林-约翰逊 得分后卫 1.96m 86kg 23 0年 Cal State-Northridge http://nba.sports.163.com//player/1000000825/

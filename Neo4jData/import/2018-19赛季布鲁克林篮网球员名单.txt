@@ -1,0 +1,21 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+13 沙巴兹-内皮尔 控球后卫 1.85m 81kg 27 0年 Connecticut http://nba.sports.163.com//player/1000000020/
+17 埃德-戴维斯 中锋 2.08m 102kg 29 0年 North-Carolina http://nba.sports.163.com//player/1000000026/
+6 贾里德-杜德利 小前锋 2.01m 107kg 33 0年 Boston-College http://nba.sports.163.com//player/1000000204/
+15 阿兰-威廉姆斯 大前锋 2.03m 120kg 25 0年 California-Santa-Barbara http://nba.sports.163.com//player/1000000207/
+33 阿伦-克拉布 得分后卫 1.98m 96kg 26 0年 California http://nba.sports.163.com//player/1000000320/
+9 德马雷-卡罗尔 小前锋 2.03m 97kg 32 0年 Missouri http://nba.sports.163.com//player/1000000322/
+12 乔-哈里斯 得分后卫 1.98m 98kg 27 0年 Virginia http://nba.sports.163.com//player/1000000324/
+8 斯潘塞-丁威迪 控球后卫 1.98m 95kg 25 0年 Colorado http://nba.sports.163.com//player/1000000325/
+31 贾莱特-阿伦 中锋 2.11m 107kg 20 0年 Texas http://nba.sports.163.com//player/1000000327/
+24 朗戴-霍利斯-杰弗森 小前锋 2.01m 98kg 23 0年 Arizona http://nba.sports.163.com//player/1000000328/
+22 卡里斯-勒韦尔 得分后卫 2.01m 92kg 24 0年 Michigan http://nba.sports.163.com//player/1000000329/
+1 丹吉洛-拉塞尔 控球后卫 1.96m 89kg 22 0年 Ohio-State http://nba.sports.163.com//player/1000000331/
+21 特雷韦恩-格雷厄姆 小前锋 1.96m 102kg 25 0年 Virginia-Commonwealth http://nba.sports.163.com//player/1000000412/
+35 肯尼思-法里德 大前锋 2.03m 99kg 29 0年 Morehead-State http://nba.sports.163.com//player/1000000476/
+55 米契-克里克 小前锋 1.96m 101kg 26 0年  http://nba.sports.163.com//player/1000000677/
+0 鲁迪恩-库鲁斯 大前锋 2.06m 95kg 20 0年  http://nba.sports.163.com//player/1000000678/
+10 西奥-平森 得分后卫 1.98m 98kg 23 0年 North-Carolina http://nba.sports.163.com//player/1000000679/
+30 德萨南-穆萨 得分后卫 2.06m 94kg 19 0年  http://nba.sports.163.com//player/1000000680/
+0 乔丹-麦克劳林 得分后卫 1.85m 83kg 22 0年 USC http://nba.sports.163.com//player/1000000681/
+7 努尼-奥莫特 小前锋 2.06m 97kg 24 0年 Baylor http://nba.sports.163.com//player/1000000790/

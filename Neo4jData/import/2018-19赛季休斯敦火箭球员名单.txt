@@ -1,0 +1,21 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+5 布鲁诺-卡博克洛 小前锋 2.06m 98kg 23 0年  http://nba.sports.163.com//player/1000000113/
+8 詹姆斯-恩尼斯 小前锋 2.01m 95kg 28 0年 Long-Beach-State http://nba.sports.163.com//player/1000000154/
+0 马基斯-克里斯 大前锋 2.08m 108kg 21 0年 Washington http://nba.sports.163.com//player/1000000217/
+2 布兰登-奈特 控球后卫 1.90m 88kg 26 0年 Kentucky http://nba.sports.163.com//player/1000000221/
+7 卡梅罗-安东尼 小前锋 2.03m 108kg 34 0年 Syracuse http://nba.sports.163.com//player/1000000349/
+1 迈克尔-卡特-威廉姆斯 控球后卫 1.98m 86kg 27 0年 Syracuse http://nba.sports.163.com//player/1000000410/
+55 以赛亚-哈尔滕施泰因 大前锋 2.13m 112kg 20 0年  http://nba.sports.163.com//player/1000000490/
+3 克里斯-保罗 控球后卫 1.83m 79kg 33 0年 Wake-Forest http://nba.sports.163.com//player/1000000495/
+13 詹姆斯-哈登 得分后卫 1.96m 99kg 29 0年 Arizona-State http://nba.sports.163.com//player/1000000497/
+15 克林特-卡佩拉 中锋 2.08m 108kg 24 0年  http://nba.sports.163.com//player/1000000499/
+9 周琦 大前锋 2.16m 95kg 22 0年  http://nba.sports.163.com//player/1000000500/
+17 PJ-塔克 小前锋 1.98m 111kg 33 0年 Texas http://nba.sports.163.com//player/1000000501/
+42 内内-希拉里奥 中锋 2.11m 113kg 36 0年  http://nba.sports.163.com//player/1000000503/
+10 埃里克-戈登 得分后卫 1.93m 97kg 29 0年 Indiana http://nba.sports.163.com//player/1000000505/
+14 杰拉德-格林 得分后卫 2.01m 92kg 32 0年  http://nba.sports.163.com//player/1000000572/
+32 罗布-格雷 得分后卫 1.85m 83kg 24 0年 Houston http://nba.sports.163.com//player/1000000698/
+12 文森特-爱德华兹 小前锋 2.03m 102kg 22 0年 Purdue http://nba.sports.163.com//player/1000000699/
+6 加雷-克拉克 大前锋 2.03m 102kg 24 0年 Cincinnati http://nba.sports.163.com//player/1000000777/
+16 布兰登-桑普森 未知 1.96m 83kg 21 0年 LSU http://nba.sports.163.com//player/1000000814/
+19 蒂姆-邦德 未知 1.98m 77kg 23 0年  http://nba.sports.163.com//player/1000000822/

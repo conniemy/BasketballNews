@@ -1,0 +1,22 @@
+号码 球员姓名 位置 身高 体重 年龄 生涯 毕业大学 地址
+18 欧米-卡斯比 小前锋 2.06m 102kg 30 0年  http://nba.sports.163.com//player/1000000046/
+6 谢尔文-麦克 控球后卫 1.90m 92kg 28 0年 Butler http://nba.sports.163.com//player/1000000085/
+0 杰迈克尔-格林 大前锋 2.06m 102kg 28 0年 Alabama http://nba.sports.163.com//player/1000000150/
+25 钱德勒-帕森斯 小前锋 2.08m 104kg 30 0年 Florida http://nba.sports.163.com//player/1000000152/
+11 迈克-康利 控球后卫 1.85m 79kg 31 0年 Ohio State http://nba.sports.163.com//player/1000000153/
+5 安德鲁-哈里森 控球后卫 1.98m 96kg 24 0年 Kentucky http://nba.sports.163.com//player/1000000156/
+24 狄龙-布鲁克斯 得分后卫 1.98m 99kg 22 0年 Oregon http://nba.sports.163.com//player/1000000157/
+7 小韦恩-塞尔登 得分后卫 1.96m 104kg 24 0年 Kansas http://nba.sports.163.com//player/1000000159/
+33 马克-加索尔 中锋 2.16m 115kg 33 0年  http://nba.sports.163.com//player/1000000160/
+10 伊万-拉布 大前锋 2.08m 99kg 21 0年 California http://nba.sports.163.com//player/1000000163/
+17 加莱特-坦普尔 得分后卫 1.98m 88kg 32 0年 Louisiana-State http://nba.sports.163.com//player/1000000312/
+1 凯尔-安德森 小前锋 2.06m 104kg 25 0年 UCLA http://nba.sports.163.com//player/1000000452/
+8 马尚-布鲁克斯 得分后卫 1.96m 90kg 29 0年 Providence http://nba.sports.163.com//player/1000000628/
+13 jr杰伦-杰克逊 大前锋 2.11m 109kg 19 0年 Michigan-State http://nba.sports.163.com//player/1000000688/
+4 马克尔-克劳福德 得分后卫 1.93m 95kg 24 0年 Ole-Miss http://nba.sports.163.com//player/1000000689/
+14 多尔-摩尔 中锋 2.16m 127kg 21 0年 Wake-Forest http://nba.sports.163.com//player/1000000690/
+3 杰文-卡特 控球后卫 1.88m 88kg 23 0年 West-Virginia http://nba.sports.163.com//player/1000000691/
+2 布兰登-古德温 控球后卫 1.88m 81kg 23 0年 Florida-Gulf-Coast http://nba.sports.163.com//player/1000000692/
+12 渡边雄太 得分后卫 2.06m 92kg 24 0年 George-Washington http://nba.sports.163.com//player/1000000693/
+15 伊斯梅利亚-凯恩 中锋 2.06m 90kg 21 0年 Atlanta-Metropolitan-College http://nba.sports.163.com//player/1000000799/
+20 DJ-斯蒂芬斯 得分后卫 1.96m 85kg 27 0年 Memphis http://nba.sports.163.com//player/1000000809/
