@@ -69,7 +69,7 @@
 储存着由爬虫从新浪网等网站爬取的2018-2019赛季NBA图文直播数据，以及CBA 2018-2019赛季数据，共有1280场文字直播数据。
 
 #### 运行环境
-Python3.7+py2neo+BeautifulSoup
+Neo4j+Python3.7+py2neo+BeautifulSoup
 
 ## 篮球新闻自动写作源码
 将在后续开放
