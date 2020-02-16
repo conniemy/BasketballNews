@@ -71,5 +71,9 @@
 #### 运行环境
 Neo4j+Python3.7+py2neo+BeautifulSoup
 
+## Contact.
+This repository is maintained by Naye Ji (conniemy). Feel free to reach out directly at jinaye@cuz.edu.cn with any questions or comments.
+Thanks to contributors:Longfei Liao， Chaoqun Lin(iRotten).
+
 ## 篮球新闻自动写作源码
 将在后续开放
