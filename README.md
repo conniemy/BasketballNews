@@ -6,6 +6,9 @@
 * `knowledgeGraph`目录为实现新闻自动生成时调用的知识图谱数据，以Python语言可调用的方式存储；
 * `textlive`目录下是用于新闻自动写作时每场篮球比赛对应初始文字直播数据。
 
+###篮球新闻自动写作数据集百度云下载
+链接：https://pan.baidu.com/s/1eAU7cWDx5Xb37tTQAkibzg 密码：9tcs
+
 ### Neo4jData
 本目录下为windows下的篮球相关知识图谱Neo4j工程文件，具体图谱数据储存在该文件夹里的import文件夹下。
 
