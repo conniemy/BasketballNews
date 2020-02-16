@@ -67,3 +67,6 @@
 
 #### 运行环境
 Python3.7+py2neo+BeautifulSoup
+
+## 篮球新闻自动写作源码
+将在后续开放
